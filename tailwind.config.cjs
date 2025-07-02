@@ -83,8 +83,13 @@ module.exports = {
   		},
   		fontFamily: {
   			sans: [
-  				'Inter var',
+  				'Inter',
+  				'system-ui',
   				'sans-serif'
+  			],
+  			serif: [
+  				'Cormorant Garamond',
+  				'serif'
   			]
   		},
   		animation: {
